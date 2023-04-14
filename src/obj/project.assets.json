@@ -3912,11 +3912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\src\\IWantApp.csproj",
+      "projectUniqueName": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\ApiControleEstoque\\src\\IWantApp.csproj",
       "projectName": "IWantApp",
-      "projectPath": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\src\\IWantApp.csproj",
+      "projectPath": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\ApiControleEstoque\\src\\IWantApp.csproj",
       "packagesPath": "C:\\Users\\DuckVoador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\src\\obj\\",
+      "outputPath": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\ApiControleEstoque\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

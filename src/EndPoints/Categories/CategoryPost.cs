@@ -13,15 +13,14 @@ public class CategoryPost
         //if (string.IsNullOrEmpty(categoryRequest.Name))
           //  return Results.BadRequest("Name is required");
 
-        var category = new Category(categoryRequest.Name)
+        var category = new Category(categoryRequest.Name, "Test", "Test")
         {
-            CreateBy = "Test",
-            CreateOn = DateTime.Now,
-            EditedBy = "Test",
-            EditedOn = DateTime.Now
+          
         };
-        if(!category.IsValid)
-            return Results.BadRequest(category.Notifications);
+        if (!category.IsValid)
+        {
+            return Results.ValidationProblem(category.Notifications.ConvertToProblemDetails());
+        }
 
         context.Categories.Add(category);
         context.SaveChanges();

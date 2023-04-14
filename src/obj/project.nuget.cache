@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LBJue2v3Uyz4E02O0OuwsiUZZuruz2nFIBKmIm+z67qLZp9SG7fcnDu5rvMa7u7XJ7yCVFoPoN7/XX7sxhZELg==",
+  "dgSpecHash": "GoyVrp6YeiFoo7hTr7W6ITvTRYuCnMuZDX8ExBSKDNEEZtxPZS4/CpE8gYh+dc24mFXkNxoQy4WTbuYv/z/zuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\src\\IWantApp.csproj",
+  "projectFilePath": "C:\\Users\\DuckVoador\\Desktop\\Projeto entrega Udemy\\ApiControleEstoque\\src\\IWantApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DuckVoador\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DuckVoador\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
